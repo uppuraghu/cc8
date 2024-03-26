@@ -1,0 +1,18 @@
+.grid_box{
+    background-image: linear-gradient(red, aqua);
+    border: 2px solid ;
+    padding: 30px;
+    display: grid;
+    column-gap: 20px;
+    row-gap: 10px;
+    grid-template-columns: repeat(9,145px);
+   
+}
+/* .cd{
+    background-image: radial-gradient(red, blue );
+} */
+.img1{
+    height: 120px;
+    width: 120px;
+    border-radius: 30px;
+}
